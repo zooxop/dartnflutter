@@ -4,7 +4,7 @@ void main() {
     'lewis',
     'ralph',
     'darren',
-    for (var friend in oldFriends) "📌 $friend"
+    for (var friend in oldFriends) "📌 $friend",
   ];
 
   print(newFriends);
